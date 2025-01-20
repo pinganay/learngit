@@ -1,2 +1,3 @@
 feature3
-Fixed feature 3
+Doesnt work-Fixed feature 3
+code
