@@ -3,3 +3,9 @@ Feature 2
 func multiply(a, b) {
     return a*b
 }
+
+func add(a, b) {
+	return a+b
+}
+
+
