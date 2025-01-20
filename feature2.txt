@@ -1,7 +1,7 @@
 Feature 2
 
-func multiply(a, b) {
-    return a*b
+func multiply(c, d) {
+    return c*d
 }
 
 func add(a, b) {
